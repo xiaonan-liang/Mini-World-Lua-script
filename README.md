@@ -1,2 +1,2 @@
 # Mini-World-Lua-script
-2.0 script
+迷你世界2.0编辑器脚本
